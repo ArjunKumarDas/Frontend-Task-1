@@ -1,0 +1,38 @@
+
+.bg-color{
+    box-flex-group: #F2F2F2;
+}
+.bg-white{
+    background-color: white;
+}
+.text-color{
+    color: #644F9C;
+}
+.bg-color-Misty{
+    background-color: #FF6F00;
+}
+.text-color-misty{
+    color: #FF6F00;
+}
+.h-text-color:hover{
+    color: #FF6F00 importabt!;
+}
+.icon-border{
+    border-radius: 50%;
+}
+.icon-color{
+    color: blue;
+}
+.button-bg{
+    color: #644F9C;
+}
+.text-color-white{
+    color: white;
+}
+.bg-blue{
+    background-color: #644F9C;
+}
+.c-border{
+    border: dotted;
+    border-radius: 50%;
+}
